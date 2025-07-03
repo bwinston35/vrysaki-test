@@ -69,7 +69,7 @@
 
       var marker = L.marker([row.Latitude, row.Longitude], {
         opacity: 1
-      }).bindPopup(row.Title);
+      }).bindPopup("<b>Item Number:</b>" + row.Title + "</br>" + "<b>Section:</b>" + row.Section + "</br>" + "<b>Description:</b>" + row.Description + "</br>" + "<b>Lot:</b>" + row.Lot);
       
       marker.addTo(map);
     }
