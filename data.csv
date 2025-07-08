@@ -1,77 +1,77 @@
 Number,Title,Latitude,Longitude,Section,Description,Lot,Photo
-1,HAT_MES_0001,37.9752143,23.72701849,"North Boundary; Greek Section, Agora Excavations",Hadrian's Library,,HAT_MES_0001.jpg
-2,HAT_MES_0002,37.97526953,23.72692523,"Greek Section, Agora Excavations",Hadrian's Library,661a/8,
-3,HAT_MES_0003,37.9750697,23.72682024,"North Boundary; Greek Section, Agora Excavations",Hadrian's Library,,
-4,HAT_MES_0004,37.97441395,23.72728838,"Agora Excavations, Northeast Boundary","Medresses, Tower of the Winds",,
-5,HAT_MES_0005,37.97429569,23.72711316,"Greek Section, Agora Excavations",Roman Agora,645/4,
-6,HAT_MES_0006,37.97428547,23.72657979,"Greek Section, Agora Excavations",Tower of the Winds,645/4,
-7,HAT_MES_0007,37.9740897,23.72647671,"Greek Section, Agora Excavations",Tower of the Winds,665/4,
-8,HAT_MES_0008,37.97426961,23.7262915,"Greek Section, Agora Excavations",Roman Agora,666/5,
-9,HAT_MES_0009,37.97444739,23.7262461,"Greek Section, Agora Excavations",,664/1,
-10,HAT_MES_0010,37.97476363,23.72590765,"Greek Section, Agora Excavations",,662/8,
-11,HAT_MES_0011,37.97447759,23.72599854,"Greek Section, Agora Excavations",Roman Agora,663/2,
-12,HAT_MES_0012,37.97468635,23.72540014,"Greek Section, Agora Excavations",Roman Agora,663/2,
-13,HAT_MES_0013,37.97441435,23.72528635,"Greek Section, Agora Excavations",Roman Agora,663/2,
-14,HAT_MES_0014,37.97523563,23.72538576,"Greek Section, Agora Excavations","[Plaka, near Roman Agora]",655/10,
-15,HAT_MES_0015,37.97531333,23.72523075,"Greek Section, Agora Excavations",,655/10,
-16,HAT_MES_0016,37.97456131,23.72484023,"Greek Section, Agora Excavations",,652/2,
-17,HAT_MES_0017,37.97420439,23.72486575,"Greek Section, Agora Excavations",[street next to Roman Agora],646/1,
-18,HAT_MES_0018,37.97353337,23.72520314,"Greek Section, Agora Excavations",[near Roman Agora. Dioskoron Street],651/3,
-19,HAT_MES_0019,37.97323784,23.72555494,"Greek Section, Agora Excavations",[near Roman Agora. Woman in doorway],650a/14,
-20,HAT_MES_0020,37.9728587,23.72462668,"Greek Section, Agora Excavations",,650β/15,
-21,HAT_MES_0021,37.97305109,23.72582043,"Greek Section, Agora Excavations",,650a/15,
-22,HAT_MES_0022,37.9731426,23.72714146,"Greek Section, Agora Excavations","[Plaka, below Acropolis. View of city]",669/1,
-23,HAT_MES_0023,37.97335271,23.72696063,"Greek Section, Agora Excavations","[Plaka, below Acropolis]",670/3,
-24,HAT_MES_0024,37.97289658,23.72197243,"Greek Section, Agora Excavations","General view [Plaka, toward Lykavitos]",,
-25,HAT_MES_0025,37.9727307,23.7261837,"Greek Section, Agora Excavations","[General view. Plaka, toward Hill of Muses]",668,
-26,HAT_MES_0026,37.97280736,23.72640623,"Greek Section, Agora Excavations",[General view. Plaka and city toward Lykavitos],669/1,
-27,HAT_MES_0027,37.97284397,23.72659778,"Greek Section, Agora Excavations",[General view of city from Plaka],668,
-28,HAT_MES_0028,37.97282815,23.72665937,"Greek Section, Agora Excavations; Chrysokastriotissa",,,
-29,HAT_MES_0029,37.97259332,23.72549653,"Greek Section, Acropolis Boundary ","[General view of Plaka and city, toward Lykavitos]",668,
-30,HAT_MES_0030,37.97381947,23.72477433,"Greek Section, Agora Excavations",[Plaka? Goat with ancient blocks and inscriptions],652/5,
-31,HAT_MES_0031,37.97382387,23.72489835,"American Section, Agora Excavations ","[Agora, looking up toward Acropolis]",,
-32,HAT_MES_0032,37.97415522,23.72670585,"Greek Section, Agora Excavations","[Plaka, view up toward Acropolis]",,
-33,HAT_MES_0033,37.97356638,23.72548883,"Greek Section, Agora Excavations",[Plaka street],651,
-34,HAT_MES_0034,37.97351792,23.72592042,"Greek Section, Agora Excavations",,651,
-35,HAT_MES_0035,37.97562787,23.72553412,"Greek Section, Agora Excavations",[Plaka street with Library of Hadrian],,
-36,HAT_MES_0036,37.9739402,23.72536802,"Greek Section, Agora Excavations",[Plaka street looking toward Roman Agora propylon],652/4,
-51,HAT_MES_0051,37.97533458,23.72295831,"American Section, Agora Excavations ",Giant from Agripeion [with old buildings of Plaka in background],637a/9,
-52,HAT_MES_0052,37.97519287,23.72298958,"American Section, Agora Excavations ",Hephaisteion [with old buildings of Plaka in foreground],631/16,
-53,HAT_MES_0053,37.9749411,23.7223122,"American Section, Agora Excavations ",House before demolition [Hephaisteion in background],631/23M,
-54,HAT_MES_0054,37.97488184,23.72246676,"American Section, Agora Excavations ",,636/25,
+1,HAT_MES_0001,37.9752143,23.72701849,"North Boundary; Greek Section, Agora Excavations",Hadrian's Library,,"<img src=""/HAT_MES_0001.jpg"" height=""150px"" width=""150px""/>"
+2,HAT_MES_0002,37.97526953,23.72692523,"Greek Section, Agora Excavations",Hadrian's Library,661a/8,"<img src=""/HAT_MES_0002.jpg"" height=""150px"" width=""150px""/>"
+3,HAT_MES_0003,37.9750697,23.72682024,"North Boundary; Greek Section, Agora Excavations",Hadrian's Library,,"<img src=""/HAT_MES_0003.jpg"" height=""150px"" width=""150px""/>"
+4,HAT_MES_0004,37.97441395,23.72728838,"Agora Excavations, Northeast Boundary","Medresses, Tower of the Winds",,"<img src=""/HAT_MES_0004.jpg"" height=""150px"" width=""150px""/>"
+5,HAT_MES_0005,37.97429569,23.72711316,"Greek Section, Agora Excavations",Roman Agora,645/4,"<img src=""/HAT_MES_0005.jpg"" height=""150px"" width=""150px""/>"
+6,HAT_MES_0006,37.97428547,23.72657979,"Greek Section, Agora Excavations",Tower of the Winds,645/4,"<img src=""/HAT_MES_0006.jpg"" height=""150px"" width=""150px""/>"
+7,HAT_MES_0007,37.9740897,23.72647671,"Greek Section, Agora Excavations",Tower of the Winds,665/4,"<img src=""/HAT_MES_0007.jpg"" height=""150px"" width=""150px""/>"
+8,HAT_MES_0008,37.97426961,23.7262915,"Greek Section, Agora Excavations",Roman Agora,666/5,"<img src=""/HAT_MES_0008.jpg"" height=""150px"" width=""150px""/>"
+9,HAT_MES_0009,37.97444739,23.7262461,"Greek Section, Agora Excavations",,664/1,"<img src=""/HAT_MES_0009.jpg"" height=""150px"" width=""150px""/>"
+10,HAT_MES_0010,37.97476363,23.72590765,"Greek Section, Agora Excavations",,662/8,"<img src=""/HAT_MES_0010.jpg"" height=""150px"" width=""150px""/>"
+11,HAT_MES_0011,37.97447759,23.72599854,"Greek Section, Agora Excavations",Roman Agora,663/2,"<img src=""/HAT_MES_0011.jpg"" height=""150px"" width=""150px""/>"
+12,HAT_MES_0012,37.97468635,23.72540014,"Greek Section, Agora Excavations",Roman Agora,663/2,"<img src=""/HAT_MES_0012.jpg"" height=""150px"" width=""150px""/>"
+13,HAT_MES_0013,37.97441435,23.72528635,"Greek Section, Agora Excavations",Roman Agora,663/2,"<img src=""/HAT_MES_0013.jpg"" height=""150px"" width=""150px""/>"
+14,HAT_MES_0014,37.97523563,23.72538576,"Greek Section, Agora Excavations","[Plaka, near Roman Agora]",655/10,"<img src=""/HAT_MES_0014.jpg"" height=""150px"" width=""150px""/>"
+15,HAT_MES_0015,37.97531333,23.72523075,"Greek Section, Agora Excavations",,655/10,"<img src=""/HAT_MES_0015.jpg"" height=""150px"" width=""150px""/>"
+16,HAT_MES_0016,37.97456131,23.72484023,"Greek Section, Agora Excavations",,652/2,"<img src=""/HAT_MES_0016.jpg"" height=""150px"" width=""150px""/>"
+17,HAT_MES_0017,37.97420439,23.72486575,"Greek Section, Agora Excavations",[street next to Roman Agora],646/1,"<img src=""/HAT_MES_0017.jpg"" height=""150px"" width=""150px""/>"
+18,HAT_MES_0018,37.97353337,23.72520314,"Greek Section, Agora Excavations",[near Roman Agora. Dioskoron Street],651/3,"<img src=""/HAT_MES_0018.jpg"" height=""150px"" width=""150px""/>"
+19,HAT_MES_0019,37.97323784,23.72555494,"Greek Section, Agora Excavations",[near Roman Agora. Woman in doorway],650a/14,"<img src=""/HAT_MES_0019.jpg"" height=""150px"" width=""150px""/>"
+20,HAT_MES_0020,37.9728587,23.72462668,"Greek Section, Agora Excavations",,650β/15,"<img src=""/HAT_MES_0020.jpg"" height=""150px"" width=""150px""/>"
+21,HAT_MES_0021,37.97305109,23.72582043,"Greek Section, Agora Excavations",,650a/15,"<img src=""/HAT_MES_0021.jpg"" height=""150px"" width=""150px""/>"
+22,HAT_MES_0022,37.9731426,23.72714146,"Greek Section, Agora Excavations","[Plaka, below Acropolis. View of city]",669/1,"<img src=""/HAT_MES_0022.jpg"" height=""150px"" width=""150px""/>"
+23,HAT_MES_0023,37.97335271,23.72696063,"Greek Section, Agora Excavations","[Plaka, below Acropolis]",670/3,"<img src=""/HAT_MES_0023.jpg"" height=""150px"" width=""150px""/>"
+24,HAT_MES_0024,37.97289658,23.72197243,"Greek Section, Agora Excavations","General view [Plaka, toward Lykavitos]",,"<img src=""/HAT_MES_0024.jpg"" height=""150px"" width=""150px""/>"
+25,HAT_MES_0025,37.9727307,23.7261837,"Greek Section, Agora Excavations","[General view. Plaka, toward Hill of Muses]",668,"<img src=""/HAT_MES_0025.jpg"" height=""150px"" width=""150px""/>"
+26,HAT_MES_0026,37.97280736,23.72640623,"Greek Section, Agora Excavations",[General view. Plaka and city toward Lykavitos],669/1,"<img src=""/HAT_MES_0026.jpg"" height=""150px"" width=""150px""/>"
+27,HAT_MES_0027,37.97284397,23.72659778,"Greek Section, Agora Excavations",[General view of city from Plaka],668,"<img src=""/HAT_MES_0027.jpg"" height=""150px"" width=""150px""/>"
+28,HAT_MES_0028,37.97282815,23.72665937,"Greek Section, Agora Excavations; Chrysokastriotissa",,,"<img src=""/HAT_MES_0028.jpg"" height=""150px"" width=""150px""/>"
+29,HAT_MES_0029,37.97259332,23.72549653,"Greek Section, Acropolis Boundary ","[General view of Plaka and city, toward Lykavitos]",668,"<img src=""/HAT_MES_0029.jpg"" height=""150px"" width=""150px""/>"
+30,HAT_MES_0030,37.97381947,23.72477433,"Greek Section, Agora Excavations",[Plaka? Goat with ancient blocks and inscriptions],652/5,"<img src=""/HAT_MES_0030.jpg"" height=""150px"" width=""150px""/>"
+31,HAT_MES_0031,37.97382387,23.72489835,"American Section, Agora Excavations ","[Agora, looking up toward Acropolis]",,"<img src=""/HAT_MES_0031.jpg"" height=""150px"" width=""150px""/>"
+32,HAT_MES_0032,37.97415522,23.72670585,"Greek Section, Agora Excavations","[Plaka, view up toward Acropolis]",,"<img src=""/HAT_MES_0032.jpg"" height=""150px"" width=""150px""/>"
+33,HAT_MES_0033,37.97356638,23.72548883,"Greek Section, Agora Excavations",[Plaka street],651,"<img src=""/HAT_MES_0033.jpg"" height=""150px"" width=""150px""/>"
+34,HAT_MES_0034,37.97351792,23.72592042,"Greek Section, Agora Excavations",,651,"<img src=""/HAT_MES_0034.jpg"" height=""150px"" width=""150px""/>"
+35,HAT_MES_0035,37.97562787,23.72553412,"Greek Section, Agora Excavations",[Plaka street with Library of Hadrian],,"<img src=""/HAT_MES_0035.jpg"" height=""150px"" width=""150px""/>"
+36,HAT_MES_0036,37.9739402,23.72536802,"Greek Section, Agora Excavations",[Plaka street looking toward Roman Agora propylon],652/4,"<img src=""/HAT_MES_0036.jpg"" height=""150px"" width=""150px""/>"
+51,HAT_MES_0051,37.97533458,23.72295831,"American Section, Agora Excavations ",Giant from Agripeion [with old buildings of Plaka in background],637a/9,"<img src=""/HAT_MES_0051.jpg"" height=""150px"" width=""150px""/>"
+52,HAT_MES_0052,37.97519287,23.72298958,"American Section, Agora Excavations ",Hephaisteion [with old buildings of Plaka in foreground],631/16,"<img src=""/HAT_MES_0052.jpg"" height=""150px"" width=""150px""/>"
+53,HAT_MES_0053,37.9749411,23.7223122,"American Section, Agora Excavations ",House before demolition [Hephaisteion in background],631/23M,"<img src=""/HAT_MES_0053.jpg"" height=""150px"" width=""150px""/>"
+54,HAT_MES_0054,37.97488184,23.72246676,"American Section, Agora Excavations ",,636/25,"<img src=""/HAT_MES_0054.jpg"" height=""150px"" width=""150px""/>"
 55,HAT_MES_0055,37.97489793,23.72275372,"American Section, Agora Excavations ",[Plaka Street],"637/10a 
 (Δ??)
-",
-56,HAT_MES_0056,37.97469714,23.72233064,"American Section, Agora Excavations ",[Plaka Street],632/5-7,
-57,HAT_MES_0057,37.97494048,23.72256989,"American Section, Agora Excavations ",[Plaka Street],636/26,
-58,HAT_MES_0058,37.97523168,23.7232641,"American Section, Agora Excavations ",,631/16,
-59,HAT_MES_0059,37.97513685,23.72268667,"American Section, Agora Excavations ",[Plaka Street],636/25,
-60,HAT_MES_0060,37.97583312,23.72389929,"American Section, Agora Excavations ",House before demolition [train tracks in foreground],645,
-61,HAT_MES_0061,37.97535788,23.72410121,"American Section, Agora Excavations ",House before demolition,645,
-62,HAT_MES_0062,37.97531008,23.7240461,"American Section, Agora Excavations ",House before demolition,645/1,
-63,HAT_MES_0063,37.97506134,23.72452757,"American Section, Agora Excavations ",House before demolition,645/1,
-64,HAT_MES_0064,37.97507994,23.72445674,"American Section, Agora Excavations ",House before demolition,645/1,
-65,HAT_MES_0065,37.97497108,23.72421204,"American Section, Agora Excavations ",House before demolition,645,
-66,HAT_MES_0066,37.97474028,23.72407202,"American Section, Agora Excavations ",House before demolition,645/1,
-67,HAT_MES_0067,37.9755494,23.7243697,"American Section, Agora Excavations ",House before demolition,645Δ/6,
-68,HAT_MES_0068,37.97464974,23.7246785,"American Section, Agora Excavations ",[Agora/Plaka area],,
-69,HAT_MES_0069,37.97288667,23.72443967,"American Section, Agora Excavations ",House before demolition,649/6+7a,
-70,HAT_MES_0070,37.97315113,23.72353412,"American Section, Agora Excavations ",House before demolition,641/11M,
-71,HAT_MES_0071,37.97304819,23.72477546,"American Section, Agora Excavations ",House before demolition,648/7,
-72,HAT_MES_0072,37.9738749,23.72462087,"American Section, Agora Excavations ",House before demolition,647/8,
-73,HAT_MES_0073,37.97409691,23.72444536,"American Section, Agora Excavations ",House before demolition,647/1,
-74,HAT_MES_0074,37.97465574,23.72290365,"American Section, Agora Excavations ",[Plaka area],636/29,
-75,HAT_MES_0075,37.97299643,23.72148156,"American Section, Agora Excavations ",[view of Hephaisteion from Acropolis North Slope],632-3,
-76,HAT_MES_0076,37.97297607,23.72153596,"General View, Agora Excavations",[view of city toward Lykavitos],,
-77,HAT_MES_0077,37.97517554,23.72142588,"American Section, Agora Excavations ",[Plaka and part of Hadrian’s Library],631γ/9,
-78,HAT_MES_0078,37.97556215,23.72145566,"American Section, Agora Excavations ",[view of Plaka/Psyri from porch of Hephaisteion],,
-79,HAT_MES_0079,37.97550402,23.721448,Agora Excavation Area,[view of Plaka and Acropolis from porch of Hephaisteion],,
-80,HAT_MES_0080,37.97294505,23.72146781,American Agora Excavation Area,[view of Agora from north slope of Acropolis,,
-82,HAT_MES_0082,37.97419254,23.72382799,"American Section, Agora Excavations ",[church in the Agora?],,
-83,HAT_MES_0083,37.97337794,23.72456097,"American Section, Agora Excavations ",[street in Plaka],641,
-84,HAT_MES_0084,37.97300377,23.72408056,"American Section, Agora Excavations ",[street in Plaka with people],648/4?,
-85,HAT_MES_0085,37.97341589,23.72296216,"American Section, Agora Excavations ",[street in Plaka with boy],634,
-86,HAT_MES_0086,37.97389944,23.72362476,"American Section, Agora Excavations ",[house in Plaka],640,
-87,HAT_MES_0087,37.97406154,23.72278789,"American Section, Agora Excavations ",[street in Plaka],638,
-88,HAT_MES_0088,37.97396162,23.72185905,"American Section, Agora Excavations ",[street in Plaka with kapheneion],635,
-90,HAT_MES_0090,37.97387815,23.72135362,"American Section, Agora Excavations ",[Plaka streets with people],634,
+","<img src=""/HAT_MES_0055.jpg"" height=""150px"" width=""150px""/>"
+56,HAT_MES_0056,37.97469714,23.72233064,"American Section, Agora Excavations ",[Plaka Street],632/5-7,"<img src=""/HAT_MES_0056.jpg"" height=""150px"" width=""150px""/>"
+57,HAT_MES_0057,37.97494048,23.72256989,"American Section, Agora Excavations ",[Plaka Street],636/26,"<img src=""/HAT_MES_0057.jpg"" height=""150px"" width=""150px""/>"
+58,HAT_MES_0058,37.97523168,23.7232641,"American Section, Agora Excavations ",,631/16,"<img src=""/HAT_MES_0058.jpg"" height=""150px"" width=""150px""/>"
+59,HAT_MES_0059,37.97513685,23.72268667,"American Section, Agora Excavations ",[Plaka Street],636/25,"<img src=""/HAT_MES_0059.jpg"" height=""150px"" width=""150px""/>"
+60,HAT_MES_0060,37.97583312,23.72389929,"American Section, Agora Excavations ",House before demolition [train tracks in foreground],645,"<img src=""/HAT_MES_0060.jpg"" height=""150px"" width=""150px""/>"
+61,HAT_MES_0061,37.97535788,23.72410121,"American Section, Agora Excavations ",House before demolition,645,"<img src=""/HAT_MES_0061.jpg"" height=""150px"" width=""150px""/>"
+62,HAT_MES_0062,37.97531008,23.7240461,"American Section, Agora Excavations ",House before demolition,645/1,"<img src=""/HAT_MES_0062.jpg"" height=""150px"" width=""150px""/>"
+63,HAT_MES_0063,37.97506134,23.72452757,"American Section, Agora Excavations ",House before demolition,645/1,"<img src=""/HAT_MES_0063.jpg"" height=""150px"" width=""150px""/>"
+64,HAT_MES_0064,37.97507994,23.72445674,"American Section, Agora Excavations ",House before demolition,645/1,"<img src=""/HAT_MES_0064.jpg"" height=""150px"" width=""150px""/>"
+65,HAT_MES_0065,37.97497108,23.72421204,"American Section, Agora Excavations ",House before demolition,645,"<img src=""/HAT_MES_0065.jpg"" height=""150px"" width=""150px""/>"
+66,HAT_MES_0066,37.97474028,23.72407202,"American Section, Agora Excavations ",House before demolition,645/1,"<img src=""/HAT_MES_0066.jpg"" height=""150px"" width=""150px""/>"
+67,HAT_MES_0067,37.9755494,23.7243697,"American Section, Agora Excavations ",House before demolition,645Δ/6,"<img src=""/HAT_MES_0067.jpg"" height=""150px"" width=""150px""/>"
+68,HAT_MES_0068,37.97464974,23.7246785,"American Section, Agora Excavations ",[Agora/Plaka area],,"<img src=""/HAT_MES_0068.jpg"" height=""150px"" width=""150px""/>"
+69,HAT_MES_0069,37.97288667,23.72443967,"American Section, Agora Excavations ",House before demolition,649/6+7a,"<img src=""/HAT_MES_0069.jpg"" height=""150px"" width=""150px""/>"
+70,HAT_MES_0070,37.97315113,23.72353412,"American Section, Agora Excavations ",House before demolition,641/11M,"<img src=""/HAT_MES_0070.jpg"" height=""150px"" width=""150px""/>"
+71,HAT_MES_0071,37.97304819,23.72477546,"American Section, Agora Excavations ",House before demolition,648/7,"<img src=""/HAT_MES_0071.jpg"" height=""150px"" width=""150px""/>"
+72,HAT_MES_0072,37.9738749,23.72462087,"American Section, Agora Excavations ",House before demolition,647/8,"<img src=""/HAT_MES_0072.jpg"" height=""150px"" width=""150px""/>"
+73,HAT_MES_0073,37.97409691,23.72444536,"American Section, Agora Excavations ",House before demolition,647/1,"<img src=""/HAT_MES_0073.jpg"" height=""150px"" width=""150px""/>"
+74,HAT_MES_0074,37.97465574,23.72290365,"American Section, Agora Excavations ",[Plaka area],636/29,"<img src=""/HAT_MES_0074.jpg"" height=""150px"" width=""150px""/>"
+75,HAT_MES_0075,37.97299643,23.72148156,"American Section, Agora Excavations ",[view of Hephaisteion from Acropolis North Slope],632-3,"<img src=""/HAT_MES_0075.jpg"" height=""150px"" width=""150px""/>"
+76,HAT_MES_0076,37.97297607,23.72153596,"General View, Agora Excavations",[view of city toward Lykavitos],,"<img src=""/HAT_MES_0076.jpg"" height=""150px"" width=""150px""/>"
+77,HAT_MES_0077,37.97517554,23.72142588,"American Section, Agora Excavations ",[Plaka and part of Hadrian’s Library],631γ/9,"<img src=""/HAT_MES_0077.jpg"" height=""150px"" width=""150px""/>"
+78,HAT_MES_0078,37.97556215,23.72145566,"American Section, Agora Excavations ",[view of Plaka/Psyri from porch of Hephaisteion],,"<img src=""/HAT_MES_0078.jpg"" height=""150px"" width=""150px""/>"
+79,HAT_MES_0079,37.97550402,23.721448,Agora Excavation Area,[view of Plaka and Acropolis from porch of Hephaisteion],,"<img src=""/HAT_MES_0079.jpg"" height=""150px"" width=""150px""/>"
+80,HAT_MES_0080,37.97294505,23.72146781,American Agora Excavation Area,[view of Agora from north slope of Acropolis,,"<img src=""/HAT_MES_0080.jpg"" height=""150px"" width=""150px""/>"
+82,HAT_MES_0082,37.97419254,23.72382799,"American Section, Agora Excavations ",[church in the Agora?],,"<img src=""/HAT_MES_0082.jpg"" height=""150px"" width=""150px""/>"
+83,HAT_MES_0083,37.97337794,23.72456097,"American Section, Agora Excavations ",[street in Plaka],641,"<img src=""/HAT_MES_0083.jpg"" height=""150px"" width=""150px""/>"
+84,HAT_MES_0084,37.97300377,23.72408056,"American Section, Agora Excavations ",[street in Plaka with people],648/4?,"<img src=""/HAT_MES_0084.jpg"" height=""150px"" width=""150px""/>"
+85,HAT_MES_0085,37.97341589,23.72296216,"American Section, Agora Excavations ",[street in Plaka with boy],634,"<img src=""/HAT_MES_0085.jpg"" height=""150px"" width=""150px""/>"
+86,HAT_MES_0086,37.97389944,23.72362476,"American Section, Agora Excavations ",[house in Plaka],640,"<img src=""/HAT_MES_0086.jpg"" height=""150px"" width=""150px""/>"
+87,HAT_MES_0087,37.97406154,23.72278789,"American Section, Agora Excavations ",[street in Plaka],638,"<img src=""/HAT_MES_0087.jpg"" height=""150px"" width=""150px""/>"
+88,HAT_MES_0088,37.97396162,23.72185905,"American Section, Agora Excavations ",[street in Plaka with kapheneion],635,"<img src=""/HAT_MES_0088.jpg"" height=""150px"" width=""150px""/>"
+90,HAT_MES_0090,37.97387815,23.72135362,"American Section, Agora Excavations ",[Plaka streets with people],634,"<img src=""/HAT_MES_0090.jpg"" height=""150px"" width=""150px""/>"
