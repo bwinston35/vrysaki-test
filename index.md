@@ -4,4 +4,4 @@ During the summer of 2025, scholars gathered at the Princeton Athens Center to e
  
 The result was a project prototype that includes a dataset and the following map:
 
-<iframe src="vrysaki-map.html" height="500" width="500"></iframe>
+<iframe src="vrysaki-map.html" height="500" width="750"></iframe>
