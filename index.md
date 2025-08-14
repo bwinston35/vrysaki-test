@@ -5,3 +5,5 @@ During the summer of 2025, scholars gathered at the Princeton Athens Center to e
 The result was a project prototype that includes a dataset and the following map:
 
 <iframe src="vrysaki-map.html" height="500" width="750"></iframe>
+
+There is currently an image loading error due to file size that will be remedied soon.

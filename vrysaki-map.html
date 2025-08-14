@@ -48,11 +48,11 @@
   }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
-  /* Stamen colored terrain basemap tiles with labels */
-  var messinessi = L.tileLayer('https://mapwarper.net/maps/tile/93674/{z}/{x}/{y}.png', {
+  /* display georeferenced Messinessi map */
+  var messinesi = L.tileLayer('https://mapwarper.net/maps/tile/93674/{z}/{x}/{y}.png', {
     attribution: 'Map tiles by <a href="https://mapwarper.net">MapWarper</a>'
   }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
-  controlLayers.addBaseLayer(messinessi, 'Messinessi Base');
+  controlLayers.addBaseLayer(messinesi, 'Messinesi basemap');
 
   // see more basemap options at https://leaflet-extras.github.io/leaflet-providers/preview/
 
