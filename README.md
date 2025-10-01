@@ -3,5 +3,5 @@ This project emerged from a [2025 Summer Institute at the Princeton Athens Cente
 
 The project uses objects from the [Messinesi Photographs Collection](https://collections.visualresources.princeton.edu/Detail/collections/155) which is part of the [Homer A. Thompson Collection](https://collections.visualresources.princeton.edu/Detail/collections/58) house in [Visual Resources Collections](https://collections.visualresources.princeton.edu/) of Princeton University's Department of Art and Archaeology.
 
-This project uses the template from the [HandsOnDataViz Tutorial](https://handsondataviz.org/leaflet-maps-with-csv.html).
+This project uses the ["leaflet maps with csv" template](https://handsondataviz.org/leaflet-maps-with-csv.html) from the online version of [Hands-On Data Visualization](https://handsondataviz.org/) by Jack Dougherty and Ilya Ilyankou.
 
