@@ -48,12 +48,6 @@
   }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
-  // display street map for alternative features
-  var streetmap = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  }).addTo(map);
-  controlLayers.addBaseLayer(streetmap, 'Open Street Map');
-
   /* display georeferenced Messinessi map */
   var messinesi = L.tileLayer('https://mapwarper.net/maps/tile/93674/{z}/{x}/{y}.png', {
     attribution: 'Map tiles by <a href="https://mapwarper.net">MapWarper</a>'
